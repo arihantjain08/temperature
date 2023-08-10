@@ -3,7 +3,7 @@
 <head>
    <link href="temper.css" rel="stylesheet">
 
-    <title>temperature</title>
+    
 </head>
 <body>
 <div class="outer">
